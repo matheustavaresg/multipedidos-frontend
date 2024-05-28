@@ -13,5 +13,7 @@ Objetivo: Avaliar suas habilidades de desenvolvimento através da criação de u
 - Para executar a aplicação frontend localmente, siga os passos a seguir:
 - 1) git clone git@github.com:matheustavaresg/multipedidos-frontend.git
 - 2) npm install
-- 3) Por se tratar de um ambiente de desenvolvimento, onde a intenção é mostrar a comunicação do frontend com o backend, vamos utilizar o navegador com a opção de segurança desabilitada conforme abaixo:
-- 3) Exemplo: chrome.exe --user-data-dir="C://chrome-dev-disabled-security" --disable-web-security --disable-site-isolation-trials
+- 3) npm run dev
+- 4) Por se tratar de um ambiente de desenvolvimento, onde a intenção é mostrar a comunicação do frontend com o backend, vamos utilizar o navegador com a opção de segurança desabilitada conforme abaixo:
+- 5) Exemplo: chrome.exe --user-data-dir="C://chrome-dev-disabled-security" --disable-web-security --disable-site-isolation-trials
+- 6) Acesse: localhost:5173
